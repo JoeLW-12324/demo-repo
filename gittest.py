@@ -1,3 +1,7 @@
 print("testing")
 
-print("h")
+
+
+
+
+import this
