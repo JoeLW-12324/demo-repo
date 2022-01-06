@@ -2,6 +2,4 @@ print("testing")
 
 
 
-
-
-import this
+print("hellooooooo")
